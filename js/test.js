@@ -1,5 +1,5 @@
 <script>
 
-    alert("ehi sto ancora testando");
+    console.log("ehi sto ancora testando");
 
 </script>
